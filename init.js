@@ -1,2 +1,4 @@
 console.clear()
 renderbody()
+
+pickleft()
